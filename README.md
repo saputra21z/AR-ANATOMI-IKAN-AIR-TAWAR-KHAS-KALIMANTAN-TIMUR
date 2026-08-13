@@ -4,8 +4,8 @@ Hendy Saputra 2109106120
 Pilih lokasi/drive di komputer tempat menyimpan project (misalnya D:/UnityProjects).
 ## 2. Clone Repository
 Buka Terminal / CMD / Git Bash, lalu jalankan perintah berikut:
-cd D:/UnityProjects
-git clone https://github.com/Klepon313/AR-3D-SARUNG/
+. cd D:/UnityProjects
+. git clone https://github.com/Klepon313/AR-3D-SARUNG/
 ## 3. Buka di Unity Hub
 Jalankan Unity Hub
 Klik Add Project
