@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 962ff525499e1954d8dceacfc0076a34
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Slide.unity
+    guid: 8aeb377b4f6192e4caef4f01663d846e
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar External Biawan.unity
+    guid: b87a58a3b08a7e44a85cf4f5a43f0aca
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar Internal Biawan.unity
+    guid: a3e4e1a4e18635647b78ca32cfccfe68
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar External Haruan.unity
+    guid: fd4ec99932eaeff40ae645abb2312215
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar Internal Haruan.unity
+    guid: 7cff86a892fdaac428ddac6754552bbb
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar External Betutu.unity
+    guid: df7f7a7deb4ae92418ae40fa44ddb96a
+  - enabled: 1
+    path: Assets/Scenes/Detail Ar Internal Betutu.unity
+    guid: 9ba9ab76d8af6184fa140a2802a6265a
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi Internal Biawan.unity
+    guid: 4883a2f063cf1634b864c8acf15e4502
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi External Biawan.unity
+    guid: 86d27d95ee22d7f43bbf3f571a89abac
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi Internal Haruan.unity
+    guid: 210ddb5f2e72d0c4292d8467fe39d65f
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi External Haruan.unity
+    guid: 25b43e7ea5e520f48b27cac32543fa06
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi Internal Betutu.unity
+    guid: 71ccd64f569e4224fb1530b24cb78787
+  - enabled: 1
+    path: Assets/Scenes/Slide Informasi External Betutu.unity
+    guid: de1d830fa67957f4b8d11e845acbb70f
+  m_configObjects: {}
